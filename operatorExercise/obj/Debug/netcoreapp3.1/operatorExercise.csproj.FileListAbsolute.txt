@@ -1,0 +1,12 @@
+/Users/davidconway/Desktop/repos/operatorExercise/operatorExercise/bin/Debug/netcoreapp3.1/operatorExercise.deps.json
+/Users/davidconway/Desktop/repos/operatorExercise/operatorExercise/bin/Debug/netcoreapp3.1/operatorExercise.runtimeconfig.json
+/Users/davidconway/Desktop/repos/operatorExercise/operatorExercise/bin/Debug/netcoreapp3.1/operatorExercise.runtimeconfig.dev.json
+/Users/davidconway/Desktop/repos/operatorExercise/operatorExercise/bin/Debug/netcoreapp3.1/operatorExercise.dll
+/Users/davidconway/Desktop/repos/operatorExercise/operatorExercise/bin/Debug/netcoreapp3.1/operatorExercise.pdb
+/Users/davidconway/Desktop/repos/operatorExercise/operatorExercise/obj/Debug/netcoreapp3.1/operatorExercise.csprojAssemblyReference.cache
+/Users/davidconway/Desktop/repos/operatorExercise/operatorExercise/obj/Debug/netcoreapp3.1/operatorExercise.AssemblyInfoInputs.cache
+/Users/davidconway/Desktop/repos/operatorExercise/operatorExercise/obj/Debug/netcoreapp3.1/operatorExercise.AssemblyInfo.cs
+/Users/davidconway/Desktop/repos/operatorExercise/operatorExercise/obj/Debug/netcoreapp3.1/operatorExercise.csproj.CoreCompileInputs.cache
+/Users/davidconway/Desktop/repos/operatorExercise/operatorExercise/obj/Debug/netcoreapp3.1/operatorExercise.dll
+/Users/davidconway/Desktop/repos/operatorExercise/operatorExercise/obj/Debug/netcoreapp3.1/operatorExercise.pdb
+/Users/davidconway/Desktop/repos/operatorExercise/operatorExercise/obj/Debug/netcoreapp3.1/operatorExercise.genruntimeconfig.cache
