@@ -12,6 +12,8 @@ namespace operatorExercise
             var div = a / b;
             var mod = a % b;
 
+            //test
+
             Console.WriteLine($"{a}/{b} is {div} remainder {mod}");
 
             //Allow user to input radius
